@@ -12,7 +12,7 @@ const Index = () => {
     <>
       <Helmet>
         {/* Titel & Meta Description */}
-        <title>Barbershop 1020 Wien | FB Barbershop</title>
+        <title>Barbershop 1020 Wien | Tsx Barbershop</title>
         <meta
           name="description"
           content="Besuche unseren Premium Barbershop The Gentleman's Cut in Berlin Prenzlauer Berg für erstklassige Haarschnitte, Bartpflege und individuelle Styles. Jetzt Termin buchen!"
