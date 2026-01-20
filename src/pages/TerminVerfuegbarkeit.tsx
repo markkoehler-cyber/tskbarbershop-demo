@@ -208,7 +208,7 @@ const TerminVerfuegbarkeit = () => {
                           ))}
                         </SelectContent>
                       </Select>
-                      <p className="text-xs text-muted-foreground">Öffnungszeiten: 09:00 – 20:00 Uhr</p>
+                      <p className="text-xs text-muted-foreground">Öffnungszeiten: 09:00 – 19:00 Uhr</p>
                     </div>
 
                     {/* Submit Button */}
