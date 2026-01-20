@@ -234,15 +234,15 @@ const Contact = () => {
 
                   <div className="aspect-square lg:aspect-[4/5] rounded-sm overflow-hidden border border-border">
   <iframe
-    src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2658.4223682725105!2d16.384418131529028!3d48.217741038917524!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d07f2f17c1ad7%3A0x1264bd7ffac3ba32!2sFB%20Barbershop!5e0!3m2!1sen!2sat!4v1768417153210!5m2!1sen!2sat"
-    width="100%"
-    height="100%"
-    style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
-    allowFullScreen
-    loading="lazy"
-    referrerPolicy="no-referrer-when-downgrade"
-    title="Standort FB Barbershop"
-  />
+  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1550.4295475941155!2d16.397543565275708!3d48.22215723839291!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x476d071a5168bd13%3A0x6077c3c459533a7c!2sSwag%20Coiffure!5e0!3m2!1sde!2sat!4v1768933721436!5m2!1sde!2sat"
+  width="100%"
+  height="100%"
+  style={{ border: 0, filter: 'grayscale(100%) contrast(1.2)' }}
+  allowFullScreen
+  loading="lazy"
+  referrerPolicy="no-referrer-when-downgrade"
+  title="Standort Swag Coiffure"
+/>
 </div>
 
                 </div>
