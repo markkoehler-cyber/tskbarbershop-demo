@@ -181,7 +181,7 @@ const Contact = () => {
                         <h3 className="font-semibold text-foreground mb-1">Adresse</h3>
                         <p className="text-muted-foreground">
                           
-                          Große Mohrengasse 38<br />
+                          Harkortstraße 1<br />
                           1020 Wien
                         </p>
                       </div>
@@ -194,10 +194,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">Telefon</h3>
                         <a 
-                          href="tel:+43 664 5477777" 
+                          href="tel:+06609037522" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          +43 664 5477777
+                          +06609037522
                         </a>
                       </div>
                     </div>
@@ -209,10 +209,10 @@ const Contact = () => {
                       <div>
                         <h3 className="font-semibold text-foreground mb-1">E-Mail</h3>
                         <a 
-                          href="mailto:fbbarbershopkg@gmail.com" 
+                          href="mailto:tsxbarbershop@gmail.com" 
                           className="text-muted-foreground hover:text-primary transition-colors"
                         >
-                          fbbarbershopkg@gmail.com
+                          tsxbarbershop@gmail.cm
                         </a>
                       </div>
                     </div>
